@@ -68,7 +68,7 @@ return record
 
 ## 🖼️ Architecture Diagram
 
-![Architecture](A_flowchart-style_digital_illustration_depicts_a_s.png)
+![Architecture](C:\Users\deepak\Downloads\architecture-diagram.jpg)
 
 ---
 
